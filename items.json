@@ -1,52 +1,13 @@
 [
   {
-    "BRAND": "NIKE",
+    
     "PRODUCTNAME": "Air Max Plus",
     "GRAPHICNAME": "AirMaxPlus.png",
     "COSTPRICE": "210",
     "MSRP": "210",
     "QTYONHAND": "10",
     "QTYONBACKORDER": "15",
-    "DESC": "Womans Shoe in 3 colors"
-  },
-  {
-    "BRAND": "NIKE",
-    "PRODUCTNAME": "Air Force 1 Low",
-    "GRAPHICNAME": "AirForceOneLow.png",
-    "COSTPRICE": "145",
-    "MSRP": "145",
-    "QTYONHAND": "5",
-    "QTYONBACKORDER": "10",
-    "DESC": "Mens Shoe in 1 color"
-  },
-  {
-    "BRAND": "NIKE",
-    "PRODUCTNAME": "Pegasus Trail 3",
-    "GRAPHICNAME": "PegasusTrailThree.png",
-    "COSTPRICE": "170",
-    "MSRP": "170",
-    "QTYONHAND": "2",
-    "QTYONBACKORDER": "4",
-    "DESC": "Womens Shoe in 2 colors"
-  },
-  {
-    "BRAND": "NIKE",
-    "PRODUCTNAME": "Air Jordan 1 Low",
-    "GRAPHICNAME": "AirJordanOneLow.png",
-    "COSTPRICE": "135",
-    "MSRP": "135",
-    "QTYONHAND": "2",
-    "QTYONBACKORDER": "4",
-    "DESC": "Mens Shoe in 3 colors"
-  },
-  {
-    "BRAND": "NIKE",
-    "PRODUCTNAME": "Legends Essential 2",
-    "GRAPHICNAME": "LegendsEssentialTwo.png",
-    "COSTPRICE": "80",
-    "MSRP": "80",
-    "QTYONHAND": "2",
-    "QTYONBACKORDER": "4",
-    "DESC": "Womens Shoe in 3 colors"
+    "DESC": "Womans Shoe in 3 colors",
+    "BRAND": "NIKE"
   }
 ]
