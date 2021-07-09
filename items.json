@@ -51,6 +51,16 @@
   },
   {
     "BRAND": "Nissan",
+    "PRODUCTNAME": "GTR",
+    "GRAPHICNAME": "GTR.png",
+    "COSTPRICE": "99999",
+    "MSRP": "90000",
+    "QTYONHAND": "2",
+    "QTYONBACKORDER": "3",
+    "DESC": "Twin Turbo v6 with dual clutch 6speed transmission"
+  },
+  {
+    "BRAND": "Nissan",
     "PRODUCTNAME": "Leaf",
     "GRAPHICNAME": "Leaf.png",
     "COSTPRICE": "40000",
@@ -58,5 +68,85 @@
     "QTYONHAND": "3",
     "QTYONBACKORDER": "5",
     "DESC": "Electric power, instant thrills"
+  },
+  {
+    "BRAND": "Nissan",
+    "PRODUCTNAME": "Altima",
+    "GRAPHICNAME": "Altima.png",
+    "COSTPRICE": "25000",
+    "MSRP": "29000",
+    "QTYONHAND": "20",
+    "QTYONBACKORDER": "5",
+    "DESC": "Tech that helps you be there"
+  },
+  {
+    "BRAND": "Nissan",
+    "PRODUCTNAME": "Versa",
+    "GRAPHICNAME": "Versa.png",
+    "COSTPRICE": "14000",
+    "MSRP": "16498",
+    "QTYONHAND": "15",
+    "QTYONBACKORDER": "3",
+    "DESC": "Tech for a world that never stops"
+  },
+  {
+    "BRAND": "Nissan",
+    "PRODUCTNAME": "Sentra",
+    "GRAPHICNAME": "Sentra.png",
+    "COSTPRICE": "18000",
+    "MSRP": "19000",
+    "QTYONHAND": "7",
+    "QTYONBACKORDER": "2",
+    "DESC": "Make Moves"
+  },
+  {
+    "BRAND": "Mazda",
+    "PRODUCTNAME": "RX8",
+    "GRAPHICNAME": "RX8.png",
+    "COSTPRICE": "20000",
+    "MSRP": "24000",
+    "QTYONHAND": "1",
+    "QTYONBACKORDER": "2",
+    "DESC": "Dorito Engine"
+  },
+  {
+    "BRAND": "Mazda",
+    "PRODUCTNAME": "Mazda3",
+    "GRAPHICNAME": "Mazda3.png",
+    "COSTPRICE": "30000",
+    "MSRP": "34000",
+    "QTYONHAND": "15",
+    "QTYONBACKORDER": "3",
+    "DESC": "Hey! thats my car"
+  },
+  {
+    "BRAND": "Mazda",
+    "PRODUCTNAME": "MX5",
+    "GRAPHICNAME": "MX5.png",
+    "COSTPRICE": "40000",
+    "MSRP": "42000",
+    "QTYONHAND": "4",
+    "QTYONBACKORDER": "2",
+    "DESC": "Zoom Zoom"
+  },
+  {
+    "BRAND": "Mazda",
+    "PRODUCTNAME": "CX8",
+    "GRAPHICNAME": "CX8.png",
+    "COSTPRICE": "54000",
+    "MSRP": "59000",
+    "QTYONHAND": "3",
+    "QTYONBACKORDER": "9",
+    "DESC": "Zoom Zoom but its an suv and body roll goes brrrr"
+  },
+  {
+    "BRAND": "Mazda",
+    "PRODUCTNAME": "Mazdaspeed6",
+    "GRAPHICNAME": "Mazdaspeed6.png",
+    "COSTPRICE": "60000",
+    "MSRP": "65000",
+    "QTYONHAND": "1",
+    "QTYONBACKORDER": "2",
+    "DESC": "ZoomZoom but its a discontinued vehicle and honestly if you own one i am so jealous, turbo goes sutututu"
   }
 ]
