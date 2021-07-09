@@ -51,10 +51,10 @@
   },
   {
     "BRAND": "Nissan",
-    "PRODUCTNAME": "GT-R",
+    "PRODUCTNAME": "GTR",
     "GRAPHICNAME": "GTR.png",
-    "COSTPRICE": "120000",
-    "MSRP": "133000",
+    "COSTPRICE": "99999",
+    "MSRP": "90000",
     "QTYONHAND": "2",
     "QTYONBACKORDER": "3",
     "DESC": "Twin Turbo v6 with dual clutch 6speed transmission"
